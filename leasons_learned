@@ -11,3 +11,15 @@ Day 3:
   breaking out into functions
   use of dictionaries
   integer(x, n) n can make base 2 into base 10
+  
+Day 4:
+  adding to list: list.append()
+  numpy:
+    creating array: np.array([1,2,3,4], dtype)
+    indexing array: x[np.array[rows],np.array[columns]]
+      Arrays such as the one above makes copies of the original array but simple list like searches only make views
+    searching array: np.where(array information == searched thing)
+  map iterates over an iterable conducting a function with each step and returns the transformed object
+  x, *y variable declaration will give the first thing to x and the remained to y
+  tuples can be used as dictionary keys????
+  3 dimensional list call list[x][y][z]
