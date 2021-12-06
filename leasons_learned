@@ -23,3 +23,7 @@ Day 4:
   x, *y variable declaration will give the first thing to x and the remained to y
   tuples can be used as dictionary keys????
   3 dimensional list call list[x][y][z]
+
+Day 5:
+  collections Counter opject:
+    a dictionary used to count objects (normal format {key:value} /// differenvet format counter(iterable).items() = (key, value)
