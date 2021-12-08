@@ -25,6 +25,10 @@ Day 4:
   3 dimensional list call list[x][y][z]
   some how, when you split a textwrapper between two variables they become lists 
   numpy axis. 0 = rows 1=columns. Speaks to the ones COMPRESSED
+  FOR INTEGERS a tilde (~) means -x -1:
+    example a = -1, ~a=0 ... a = 9, ~a = -10
+  FOR BOOLEAN in numpy a tilde (~) flips true to false
+  Int times false = 0
 
 Day 5:
   collections Counter opject:
