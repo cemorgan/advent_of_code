@@ -23,6 +23,8 @@ Day 4:
   x, *y variable declaration will give the first thing to x and the remained to y
   tuples can be used as dictionary keys????
   3 dimensional list call list[x][y][z]
+  some how, when you split a textwrapper between two variables they become lists 
+  numpy axis. 0 = rows 1=columns. Speaks to the ones COMPRESSED
 
 Day 5:
   collections Counter opject:
